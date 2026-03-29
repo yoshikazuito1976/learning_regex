@@ -23,3 +23,6 @@ My favorite hex color is #a1B2c3
 Red is usually #FF0000
 Short form is #FFF
 Invalid hex #G12345
+Error code 404 not found
+My room number is 205.
+999
