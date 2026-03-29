@@ -1,0 +1,25 @@
+error: Connection timed out
+A critical system error occurred
+This line has no numbers
+But this line has 42 and 2024!
+I love my cat and my dog.
+Birds are cute too.
+The cut was deep, blood everywhere.
+The cot is too small.
+A cart full of apples.
+He laughed out loud: haha!
+What a funny joke: haa haa.
+aeiou
+xyz123
+The color of the sky is blue.
+The colour of the British flag.
+That is a strange colouuur.
+This is a normal sentence.
+No punctuation at all
+readme.txt
+backup.txt.bak
+just_atxt_file
+My favorite hex color is #a1B2c3
+Red is usually #FF0000
+Short form is #FFF
+Invalid hex #G12345
