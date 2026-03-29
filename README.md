@@ -1,4 +1,4 @@
-# Learning Regex 🔍
+g Learning Regex 🔍
 
 このリポジトリは、Linuxの `grep -E` (拡張正規表現: Extended Regular Expression) をベースにした正規表現の学習記録とテスト環境です。
 
@@ -39,7 +39,7 @@ grep -E '[0-9]+' regex.txt
 
 ```Bash
 # 16進数のカラーコード（例: #FF0000）だけを抽出する
-grep -E -o '#[0-9a-fA-F]{6}' test.txt
+grep -E -o '#[0-9a-fA-F]{6}' regex.txt
 ```
 📚 今後の学習予定
 - [ ] grepコマンドと拡張正規表現の基本
